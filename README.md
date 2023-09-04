@@ -1,8 +1,8 @@
 # What i need for run this project
 
-- 1. Create token from githun toke
-- 2. Duplicate .env-prod in src and change the duplicate file to .env
-- 3. Open .env file and copy github token for value REACT_APP_GH_TOKEN
+-  Create token from githun toke
+-  Duplicate .env-prod in src and change the duplicate file to .env
+-  Open .env file and copy github token for value REACT_APP_GH_TOKEN
 
 # React + TypeScript + Vite
 
