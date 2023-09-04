@@ -1,9 +1,10 @@
 # What i need for run this project
 
--  Create token from githun toke
+-  Create token from github toke
 -  Duplicate .env-prod in src and change the duplicate file to .env
 -  Open .env file and copy github token for value REACT_APP_GH_TOKEN
-
+-  npm install
+- npm run dev
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
